@@ -45,6 +45,13 @@ Gabriel Garcia</a></h1>
   </a>
 </p>
 
+## Portafolio
+
+<br>
+<a href="https://gabrielgarcia2211.github.io/portafolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-Portfolio-blue" alt="Portafolio"/>
+</a>
+
 <br>
 
 ## Conectate conmigo 🤝
