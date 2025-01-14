@@ -41,7 +41,7 @@ Gabriel Garcia</a></h1>
 <p>
   <strong>Herramientas:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode,phpstorm,postman,linux&perline=5">
+    <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode,phpstorm,postman,graphql,linux,mint,heroku&perline=5">
   </a>
 </p>
 
