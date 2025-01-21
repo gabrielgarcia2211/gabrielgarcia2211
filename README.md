@@ -62,14 +62,16 @@ Gabriel Garcia</a></h1>
 
 <br>
 
-
-<h2>GitHub :octocat:</h2>
+# 📊 GitHub Stats
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielgarcia2211&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabrielgarcia2211&layout=compact&theme=dark&langs_count=10" alt="Top Languages" height="200" />
 </p>
+
+### 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=gabrielgarcia2211&theme=darkhub&title=Stars,Commits,Repositories,Followers)
 
 
 
