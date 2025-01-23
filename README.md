@@ -8,12 +8,20 @@ Gabriel Garcia</a></h1>
 
 <br>
 
-- 💻 **Ingeniero en Sistemas** con especialización en **desarrollo de software** y más de 4 años de experiencia creando sistemas dinámicos, robustos y escalables.  
-- 🚀 **Comprometido con el aprendizaje continuo**, mejorando tanto habilidades técnicas como interpersonales para contribuir a equipos de alto desempeño.  
-- 🛠️ Amplia experiencia en **backend development**, utilizando tecnologías como **PHP**, **Laravel**, **Docker**, **AWS**, y herramientas modernas para implementar soluciones eficientes.  
-- 🌱 **Enfoque en el autodesarrollo**, manteniéndome actualizado con las últimas tendencias en tecnología y adoptando buenas prácticas como Clean Code, SOLID y DevOps.  
-- 🌍 Hábil para colaborar con equipos internacionales, demostrando excelencia en comunicación y capacidad de adaptación en entornos multiculturales.  
-- 📖 Pasión por la **investigación y aprendizaje constante** en áreas como arquitecturas escalables, diseño de APIs y metodologías ágiles para desarrollo de software.  
+<div style="text-align: justify;">
+  <p><strong>💻 Ingeniero en Sistemas</strong> con especialización en <strong>desarrollo de software</strong> y más de 4 años de experiencia creando sistemas dinámicos, robustos y escalables.</p>
+  
+  <p><strong>🚀 Comprometido con el aprendizaje continuo</strong>, mejorando tanto habilidades técnicas como interpersonales para contribuir a equipos de alto desempeño.</p>
+  
+  <p><strong>🛠️ Amplia experiencia en <strong>backend development</strong></strong>, utilizando tecnologías como <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Docker</strong>, <strong>AWS</strong>, y herramientas modernas para implementar soluciones eficientes.</p>
+  
+  <p><strong>🌱 Enfoque en el autodesarrollo</strong>, manteniéndome actualizado con las últimas tendencias en tecnología y adoptando buenas prácticas como Clean Code, SOLID y DevOps.</p>
+  
+  <p><strong>🌍 Hábil para colaborar con equipos internacionales</strong>, demostrando excelencia en comunicación y capacidad de adaptación en entornos multiculturales.</p>
+  
+  <p><strong>📖 Pasión por la <strong>investigación y aprendizaje constante</strong></strong> en áreas como arquitecturas escalables, diseño de APIs y metodologías ágiles para desarrollo de software.</p>
+</div>
+
 
 <br>
 
