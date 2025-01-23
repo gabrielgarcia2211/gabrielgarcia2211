@@ -8,7 +8,6 @@ Gabriel Garcia</a></h1>
 
 <br>
 
-- :school: Soy un `Ingeniero en Sistemas` especializado como `Desarrollador Web`.
 - 💻 **Ingeniero en Sistemas** con especialización en **desarrollo de software** y más de 4 años de experiencia creando sistemas dinámicos, robustos y escalables.  
 - 🚀 **Comprometido con el aprendizaje continuo**, mejorando tanto habilidades técnicas como interpersonales para contribuir a equipos de alto desempeño.  
 - 🛠️ Amplia experiencia en **backend development**, utilizando tecnologías como **PHP**, **Laravel**, **Docker**, **AWS**, y herramientas modernas para implementar soluciones eficientes.  
