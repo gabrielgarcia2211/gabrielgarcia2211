@@ -8,20 +8,7 @@ Gabriel Garcia</a></h1>
 
 <br>
 
-<div style="text-align: justify;">
-  <p><strong>💻 Ingeniero en Sistemas</strong> con especialización en <strong>desarrollo de software</strong> y más de 4 años de experiencia creando sistemas dinámicos, robustos y escalables.</p>
-  
-  <p><strong>🚀 Comprometido con el aprendizaje continuo</strong>, mejorando tanto habilidades técnicas como interpersonales para contribuir a equipos de alto desempeño.</p>
-  
-  <p><strong>🛠️ Amplia experiencia en <strong>backend development</strong></strong>, utilizando tecnologías como <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Docker</strong>, <strong>AWS</strong>, y herramientas modernas para implementar soluciones eficientes.</p>
-  
-  <p><strong>🌱 Enfoque en el autodesarrollo</strong>, manteniéndome actualizado con las últimas tendencias en tecnología y adoptando buenas prácticas como Clean Code, SOLID y DevOps.</p>
-  
-  <p><strong>🌍 Hábil para colaborar con equipos internacionales</strong>, demostrando excelencia en comunicación y capacidad de adaptación en entornos multiculturales.</p>
-  
-  <p><strong>📖 Pasión por la <strong>investigación y aprendizaje constante</strong></strong> en áreas como arquitecturas escalables, diseño de APIs y metodologías ágiles para desarrollo de software.</p>
-</div>
-
+<div style="text-align: center;"> <p><strong>💻 Ingeniero en Sistemas</strong>, especializado en <strong>desarrollo de software</strong>, con más de 4 años de experiencia en soluciones robustas y escalables.</p> <p><strong>🛠 Backend Developer</strong> con dominio en <strong>PHP, Laravel, Docker y AWS</strong>, enfocado en eficiencia y buenas prácticas como Clean Code y SOLID.</p> <p><strong>🚀 Apasionado por el aprendizaje continuo</strong>, colaborando con equipos internacionales y adaptándome a entornos multiculturales.</p> <p><strong>📖 En constante evolución</strong>, interesado en arquitecturas escalables, diseño de APIs y metodologías ágiles.</p> </div>
 
 <br>
 
@@ -29,7 +16,7 @@ Gabriel Garcia</a></h1>
 <p>
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,spring,docker&perline=5">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,nestjs,spring,docker&perline=5">
   </a>
 </p>
 
@@ -75,7 +62,7 @@ Gabriel Garcia</a></h1>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgarcia2211&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgarcia2211&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabrielgarcia2211&layout=compact&theme=dark&langs_count=10" alt="Top Languages" height="200" />
 </p>
 
